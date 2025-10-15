@@ -1,0 +1,138 @@
+{
+  "brand": {
+    "name": "ConsultPro",
+    "accent": "#1A73E8"
+  },
+  "layout": "Simple",
+  "sections": [
+    {
+      "type": "Hero",
+      "variant": "centered",
+      "headline": "Unlock Your Business Potential",
+      "subheadline": "Expert consulting to help you grow, streamline, and succeed. Partner with a trusted advisor to achieve your business goals.",
+      "primaryCta": {
+        "label": "Book a Free Consultation",
+        "href": "/contact"
+      },
+      "image": {
+        "kind": "icon",
+        "name": "briefcase",
+        "url": "https://cdn-icons-png.flaticon.com/512/1250/1250689.png"
+      }
+    },
+    {
+      "type": "Features",
+      "items": [
+        {
+          "title": "Tailored Business Strategies",
+          "desc": "Receive customized plans designed to address your unique business challenges and goals."
+        },
+        {
+          "title": "Market Analysis & Insights",
+          "desc": "Benefit from in-depth market research and actionable insights to stay ahead of the competition."
+        },
+        {
+          "title": "Operational Efficiency",
+          "desc": "Streamline your processes and improve productivity with expert guidance on best practices."
+        },
+        {
+          "title": "Growth & Scaling Support",
+          "desc": "Get hands-on support to expand your business and scale operations effectively."
+        },
+        {
+          "title": "Flexible Consulting Options",
+          "desc": "Choose from one-time consultations or ongoing support to fit your business needs."
+        }
+      ]
+    },
+    {
+      "type": "Testimonials",
+      "items": [
+        {
+          "name": "Sarah L.",
+          "quote": "Working with this consultant transformed my business strategy. Highly recommended!"
+        },
+        {
+          "name": "James P.",
+          "quote": "Professional, insightful, and results-driven. My revenue increased within months."
+        },
+        {
+          "name": "Emily R.",
+          "quote": "Clear advice and actionable plans. I felt supported every step of the way."
+        }
+      ]
+    },
+    {
+      "type": "Pricing",
+      "plans": [
+        {
+          "name": "Starter",
+          "price": "$299",
+          "period": "per project",
+          "features": [
+            "Initial business consultation (1 hour)",
+            "Actionable recommendations report",
+            "Email support (1 week)"
+          ]
+        },
+        {
+          "name": "Growth",
+          "price": "$799",
+          "period": "per month",
+          "features": [
+            "Up to 4 consulting sessions/month",
+            "Custom business strategy plan",
+            "Ongoing email & chat support",
+            "Monthly progress review"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$1,499",
+          "period": "per month",
+          "features": [
+            "Unlimited consulting sessions",
+            "Dedicated business growth roadmap",
+            "Priority support",
+            "Quarterly in-depth analysis & reporting"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "FAQ",
+      "items": [
+        {
+          "q": "What services do you offer as a business consultant?",
+          "a": "I provide strategic planning, business development, process optimization, and tailored consulting solutions for startups and established businesses."
+        },
+        {
+          "q": "How do I book a consultation?",
+          "a": "You can book a consultation by contacting me through the website’s contact form or scheduling a call directly via the booking link."
+        },
+        {
+          "q": "What industries do you specialize in?",
+          "a": "I have experience working with a variety of industries, including technology, retail, finance, and professional services."
+        },
+        {
+          "q": "What is your pricing structure?",
+          "a": "Pricing is flexible and depends on the scope and duration of the project. I offer hourly, project-based, and retainer packages."
+        },
+        {
+          "q": "Can you help with business plan development?",
+          "a": "Yes, I assist clients in creating comprehensive business plans tailored to their goals and market needs."
+        }
+      ]
+    },
+    {
+      "type": "LeadCapture",
+      "headline": "Start Growing Your Business Today",
+      "placeholder": "Enter your email to get a free consultation",
+      "button": "Get Started"
+    },
+    {
+      "type": "Footer",
+      "note": "© 2024 Your Name, Business Consultant. All rights reserved."
+    }
+  ]
+}
